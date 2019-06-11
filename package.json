@@ -15,7 +15,7 @@
     "twilio": "^3.6.7",
     "twilio-chat": "^1.1.1"
   },
-  "proxy": "http://localhost:3001",
+  "proxy": "http://localhost:5000",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
